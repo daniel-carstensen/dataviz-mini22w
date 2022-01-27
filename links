@@ -3,3 +3,5 @@ Helpful links:
 Matplotlib Cheatsheet: http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9
 
 pivot documentation: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pivot.html
+
+melt docs: https://pandas.pydata.org/docs/reference/api/pandas.melt.html
